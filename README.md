@@ -2,4 +2,4 @@
 
 This project was created in local system .
 
-Created by Binay Bhusa
+Created by Binay Bhus
